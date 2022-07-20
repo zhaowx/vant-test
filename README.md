@@ -1,29 +1,11 @@
-# vant-test
+# Get Started
 
-## Project setup
-```
-npm install
-```
+## Try it out
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Moving on
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
