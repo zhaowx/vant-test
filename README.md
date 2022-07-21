@@ -1,8 +1,8 @@
 ---
-description: first
+description: sefirst
 ---
 
-# Get Started First
+# Get Started First-se
 
 ## Try it out
 
