@@ -1,6 +1,6 @@
 # Collections
 
-## A place to group your spaces
+## A place to group your spaces for u
 
 A collection in GitBook is kind of like a folder for your spaces or other collections. When you create a collection, you'll get a kind of ‘tree’ view in your sidebar.
 
