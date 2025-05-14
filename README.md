@@ -1,8 +1,4 @@
----
-description: sefirst
----
-
-# Get Started First-se
+# Get Started First2025
 
 ## Try it out
 

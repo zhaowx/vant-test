@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Get Started First-se](README.md)
+* [Get Started First2025](README.md)
 
 ## The Basics
 
